@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zakir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Test_NewJob\\WSE\\Server\\TCP_Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7DB13B-85C7-44F3-851B-5BDAE35B85BD}|TCP_Server\\TCP_Server.vcxproj|C:\\Users\\zakir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Test_NewJob\\WSE\\Server\\TCP_Server\\TCP_Server\\TCP_Server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EB7DB13B-85C7-44F3-851B-5BDAE35B85BD}|TCP_Server\\TCP_Server.vcxproj|solutionrelative:TCP_Server\\TCP_Server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TCP_Server.cpp",
+              "DocumentMoniker": "C:\\Users\\zakir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Test_NewJob\\WSE\\Server\\TCP_Server\\TCP_Server\\TCP_Server.cpp",
+              "RelativeDocumentMoniker": "TCP_Server\\TCP_Server.cpp",
+              "ToolTip": "C:\\Users\\zakir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Test_NewJob\\WSE\\Server\\TCP_Server\\TCP_Server\\TCP_Server.cpp",
+              "RelativeToolTip": "TCP_Server\\TCP_Server.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-17T07:32:41.81Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
